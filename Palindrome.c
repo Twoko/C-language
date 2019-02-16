@@ -1,11 +1,11 @@
 #=============================================================================
- #|   Assignment:  PROJECT CS 150-L01
+ #|   Assignment:  
  #|
  #|       Author:  TWOKOKO CHAW
  #|     Language:  C (Compiler used: MinGW.org GCC-6.3.0-1)
  #|   To Compile:  Makefile was used to compile
  #|        Class:  CS 150-L01
- #|   Instructor:  PROFESSOR STEPHEN ROBERTS
+ #|   Instructor: 
  #|     Due Date:  01 NOVEMBER 2018
  #|
  #+-----------------------------------------------------------------------------
